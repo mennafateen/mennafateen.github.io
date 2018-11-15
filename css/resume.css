@@ -23,9 +23,10 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Saira Extra Condensed', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+  font-family: 'Inconsolata', monospace, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   font-weight: 700;
-  text-transform: uppercase;
+
+  text-transform: lowercase;
   color: #343a40;
 }
 
@@ -48,9 +49,9 @@ p.lead {
 }
 
 .subheading {
-  text-transform: uppercase;
-  font-weight: 500;
-  font-family: 'Saira Extra Condensed', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+  /* text-transform: uppercase; */
+  font-weight: 300;
+  font-family: 'Inconsolata', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   font-size: 1.5rem;
 }
 
@@ -64,6 +65,7 @@ p.lead {
   text-align: center;
   font-size: 1.5rem;
   line-height: 3.5rem;
+  padding-top: 1rem;
   margin-right: 1rem;
 }
 
@@ -72,7 +74,8 @@ p.lead {
 }
 
 .social-icons a:hover {
-  background-color: #BD5D38;
+  /*background-color: #BD5D38;*/
+  background-color: #F4B6C1;
 }
 
 .dev-icons {
@@ -80,13 +83,14 @@ p.lead {
 }
 
 .dev-icons .list-inline-item i:hover {
-  color: #BD5D38;
+  color: #F4B6C1;
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
-  font-weight: 800;
+  font-weight: 500;
   letter-spacing: 0.05rem;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
+  font-family: 'Inconsolata', monospace;
 }
 
 #sideNav .navbar-toggler:focus {
@@ -119,7 +123,9 @@ p.lead {
   #sideNav .navbar-brand .img-profile {
     max-width: 10rem;
     max-height: 10rem;
-    border: 0.5rem solid rgba(255, 255, 255, 0.2);
+    border: 0.1rem solid rgba(0, 0, 0, 0.2);
+    padding: 1rem;
+    /* border: 0.5rem solid rgba(255, 255, 255, 0.2); */
   }
   #sideNav .navbar-collapse {
     display: -webkit-box;
@@ -176,17 +182,17 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #BD5D38 !important;
+  background-color: #F4B6C1 !important;
 }
 
 .text-primary {
-  color: #BD5D38 !important;
+  color: #F4B6C1 !important;
 }
 
 a {
-  color: #BD5D38;
+  color: #F4B6C1;
 }
 
 a:hover, a:focus, a:active {
-  color: #824027;
+  color: #BC647A;
 }
