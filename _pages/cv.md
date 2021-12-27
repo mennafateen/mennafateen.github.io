@@ -11,21 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S in Computer Science, Faculty of Computers and Information, Cairo University, 2018
+* Masters of Engineering, Information Science and Electrical Engineering, Kyushu University, expected March 2022
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Current: Research Assistant at Mine Lab
+  * ISEE, Kyushu University
+  * Supervisor: Professor Tsunenori Mine
+  * Working on a Japanese NLP project to predict student grades
+using teacher observation reports using BERT.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
+* Summer 2017: Software Developer Intern
+  * University of Cincinnati IT Solutions Center
+  * Supervisor: Professor Hazem Said
+  * Duties included: Built a cross-platform mobile application for the UC Corrections Institute. The app, made for youth in probation, allowed them to write down their thoughts, feelings and actions regarding situations that could lead to violence. The app gave immediate feedback on the user’s situations based on the potential consequences. (Cordova, Node.js, Javascript, MySQL, Bookshelf, Git)
+
+* 2015-2017: Contestant at ACM Programming Contests
+  * Cairo University
+  * Competed at FCI Cairo University Programming Contest.
+  * Competed at ACM Egyptian Collegiate Programming Contest and ranked 66
+out of 159 teams [(ICPC ID).](https://icpc.global/ICPCID/BA0MPS7T6WUO)
+  * Participated in 25+ online contests. (Women’s Codesprint, Codeforces rounds)
+  * Solved 275+ problems for practice using C++ and C. 
   
 Skills
 ======
@@ -42,7 +51,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -52,8 +61,8 @@ Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+  {% endfor %}</ul> -->
+<!--   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
