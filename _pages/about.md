@@ -9,7 +9,16 @@ redirect_from:
 ---
 
 Hi! I'm Menna, thanks for passing by! 
-I'm currently pursuing a Masters degree at the Deparment of Advanced Technology in Graduate School of Information Science and Electrical Engineering at Kyushu University, Japan. My main research interests revolve around natural language processing which has developed from my admiration and love to lignuistics. I am currently interested in and working on the application of NLP to education under [Prof. Tsunenori Mine's](https://www.m.ait.kyushu-u.ac.jp/mine/index_e.html) guidance. 
+I'm currently pursuing a Masters degree at the Deparment of Advanced Technology in Graduate School of Information Science and Electrical Engineering at Kyushu University, Japan.
+
+My main research interest is in natural language processing, which stem from my admiration and fascination with linguistics. Nonetheless, I am interested in all subfields of machine learning and data science. 
+
+Under [Prof. Tsunenori Mine](https://www.m.ait.kyushu-u.ac.jp/mine/index_e.html)'s guidance, I am currently working on the application of natural language processing to education. The intersection of NLP and education is truly one that I am passionate to work on. 
+
+
+<!-- 
+
+I'm currently pursuing a Masters degree at the Deparment of Advanced Technology in Graduate School of Information Science and Electrical Engineering at Kyushu University, Japan. My main research interests revolve around natural language processing which has developed from my admiration and love to lignuistics. I am currently interested in and working on the application of NLP to education under [Prof. Tsunenori Mine's](https://www.m.ait.kyushu-u.ac.jp/mine/index_e.html) guidance.  -->
 
 
 <!-- 
