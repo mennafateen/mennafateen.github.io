@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Menna Fateen"
+# title: "Menna Fateen"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
