@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi!
-======
-I'm Menna, thanks for passing by! 
+Hi! I'm Menna, thanks for passing by! 
 I'm currently pursuing a Masters degree at the Deparment of Advanced Technology in Graduate School of Information Science and Electrical Engineering at Kyushu University, Japan. My main research interests revolve around natural language processing which has developed from my admiration and love to lignuistics. I am currently interested in and working on the application of NLP to education under [Prof. Tsunenori Mine's](https://www.m.ait.kyushu-u.ac.jp/mine/index_e.html) guidance. 
 
 
