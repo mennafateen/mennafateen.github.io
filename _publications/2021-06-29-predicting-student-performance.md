@@ -2,7 +2,7 @@
 title: "Predicting Student Performance Using Teacher Observation Reports"
 collection: publications
 permalink: /publication/2021-06-29-predicting-student-performance
-excerpt: 'In this paper, we present a model that predicts students' performance using teacher observation reports. We compare the performance of the model using TF-IDF vectors and BERT embeddings. This paper is the first to utilize teacher reports for performance prediction.'
+# excerpt: 'In this paper, we present a model that predicts students' performance using teacher observation reports. We compare the performance of the model using TF-IDF vectors and BERT embeddings. This paper is the first to utilize teacher reports for performance prediction.'
 date: 2021-06-29
 venue: 'Educational Data Mining 2021'
 paperurl: 'https://eric.ed.gov/?id=ED615587'
