@@ -35,15 +35,6 @@ using teacher observation reports using BERT.
 out of 159 teams [(ICPC ID).](https://icpc.global/ICPCID/BA0MPS7T6WUO)
   * Participated in 25+ online contests. (Women’s Codesprint, Codeforces rounds)
   * Solved 275+ problems for practice using C++ and C. 
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
