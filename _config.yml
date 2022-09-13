@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Menna Fateen"
 title_separator          : "-"
 name                     : &name "Menna Fateen"
-description              : &description "Masters Student at Graduate School of Information Science and Electrical Engineering, Kyushu University"
+description              : &description "PhD Fellow at Graduate School of Information Science and Electrical Engineering, Kyushu University"
 url                      : https://mennafateen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mennafateen/mennafateen.github.io"
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Menna Fateen"
-  avatar           : "profile.jpg"
-  bio              : "Masters Student at Graduate School of Information Science and Electrical Engineering, Kyushu University"
+  avatar           : "profile.jpeg"
+  bio              : "PhD Fellow at Graduate School of Information Science and Electrical Engineering, Kyushu University"
   location         : "Fukuoka, Japan"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
