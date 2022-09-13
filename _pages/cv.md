@@ -12,14 +12,16 @@ redirect_from:
 Education
 ======
 * B.S in Computer Science, Faculty of Computers and Information, Cairo University, 2018
-* Masters of Engineering, Information Science and Electrical Engineering, Kyushu University, expected March 2022
+* Masters of Engineering, Information Science and Electrical Engineering, Kyushu University, March 2022
+* PhD, Information Science and Electrical Engineering, Kyushu University, expected March 2025
 
 Work experience
 ======
-* Current: Research Assistant at Mine Lab
+* PhD Fellow
+* Research Assistant at Mine Lab
   * ISEE, Kyushu University
   * Supervisor: Professor Tsunenori Mine
-  * Working on a Japanese NLP project to predict student grades
+  * Worked on a Japanese NLP project to predict student grades
 using teacher observation reports using BERT.
 
 
