@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Hi! I'm Menna, thanks for passing by! 
-I'm currently pursuing a Masters degree at the Department of Advanced Technology at the Graduate School of Information Science and Electrical Engineering at Kyushu University, Japan.
+I'm currently a PhD [fellow](https://www.isee.kyushu-u.ac.jp/e/DC_fellowship.html) at the Department of Advanced Technology at the Graduate School of Information Science and Electrical Engineering at Kyushu University, Japan.
 
 My main research interest is in natural language processing, which stems from my admiration and fascination with linguistics. Nonetheless, I am interested in all subfields of machine learning and data science. 
 
