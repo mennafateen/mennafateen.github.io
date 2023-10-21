@@ -13,7 +13,7 @@ I'm currently a PhD [fellow](https://www.isee.kyushu-u.ac.jp/e/DC_fellowship.htm
 
 My main research interest is in natural language processing, which stems from my admiration and fascination with linguistics. Nonetheless, I am interested in all subfields of machine learning and data science. 
 
-Under [Prof. Tsunenori Mine](https://www.m.ait.kyushu-u.ac.jp/mine/index_e.html)'s guidance, I am currently working on the application of natural language processing to education. The intersection of NLP and education is truly one that I am passionate to work on. 
+Under [Prof. Tsunenori Mine](https://app.ait.kyushu-u.ac.jp/professors)'s guidance, I am currently working on the application of natural language processing to education. The intersection of NLP and education is truly one that I am passionate to work on. 
 
 
 <!-- 
